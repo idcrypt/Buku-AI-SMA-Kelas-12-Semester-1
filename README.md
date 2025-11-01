@@ -1,6 +1,9 @@
-# BUKU AI SD/MI Kelas 5 Semester 1: Belajar Logika, Coding Visual, Literasi Digital, dan AI
-Aolia Ikhwanudin
-Onno W. Purbo
+# Buku AI SMA Kelas 12 Semester 1 Belajar dari Dunia Nyata: Studi Kasus & Riset AI yang Bikin Penasaran
+
+Anita Triana, S.Kom., M.Kom.
+
+Onno W Purbo
+
 Institut Teknologi Tangerang Selatan (ITTS)
 2025
 
